@@ -35,12 +35,12 @@
       <form action="javascript:void(0)">
         <div class="form-group">
           <label for="exampleInputEmail1">Username</label>
-          <input type="text" class="form-control" id="usernameSignUp" aria-describedby="emailHelp" placeholder="Enter email">
+          <input type="text" class="form-control" id="usernameSignUp" aria-describedby="emailHelp" placeholder="Enter username">
         </div>
 
         <div class="form-group">
           <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="emailSignUp" aria-describedby="emailHelp" placeholder="Enter username">
+          <input type="email" class="form-control" id="emailSignUp" aria-describedby="emailHelp" placeholder="Enter email">
         </div>
         <div class="form-group">
           <label for="exampleInputPassword1">Password</label>
